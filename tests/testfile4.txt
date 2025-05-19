@@ -1,0 +1,8 @@
+#FONTSIZE 10
+\varphi(x',y')=\phi\circ T^{-1}
+-\text{g}_{ij}\varphi(x',y')=\phi\circ T^{-1}
+#FONTSIZE 12
+-\nabla\phi(u,v)
+T=\Pi\circ E
+E
+\Pi

@@ -1,0 +1,17 @@
+#FONTSIZE 10
+#SAVEAS file_A
+\varphi(x',y')=\phi\circ T^{-1}
+#SAVEAS file_B
+-\text{g}_{ij}\varphi(x',y')=\phi\circ T^{-1}
+# This is just a comment to be ignored
+#FONTSIZE 12
+-\nabla\phi(u,v)
+
+#SAVEAS file_C
+
+T=\Pi\circ E
+E
+#SAVEAS file_A
+
+
+\Pi
